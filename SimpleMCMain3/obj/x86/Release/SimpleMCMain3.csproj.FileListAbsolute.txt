@@ -1,0 +1,5 @@
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain3\SimpleMCMain3\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain3\SimpleMCMain3\bin\Release\SimpleMCMain3.exe
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain3\SimpleMCMain3\bin\Release\SimpleMCMain3.pdb
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain3\SimpleMCMain3\obj\x86\Release\SimpleMCMain3.exe
+C:\Users\yana\documents\visual studio 2010\Projects\SimpleMCMain3\SimpleMCMain3\obj\x86\Release\SimpleMCMain3.pdb
